@@ -1,5 +1,6 @@
 # OpenLight
-OpenLight is an alternative to the copyrighted UniLight - Open Source - feel free to mod / share / whatever you like
+OpenLight is an OpenSource alternative to the copyrighted UniLight.
+So feel free to mod / share / whatever you like.
 
 
 If you have questions, please first look into the code. Most lines are commented.
