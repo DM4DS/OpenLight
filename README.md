@@ -31,8 +31,7 @@ Try and test with your setup.
 All the best
 DM4DS - Sandor
 
-<video src='/videos/V2_30W_LED_DM4DS_v1.mp4' width=800/> 
-
+ 
 ![image description](3Dcasepics/V2case_all.jpg)
 
 ![image description](3Dcasepics/V2case_cableside.jpg)
