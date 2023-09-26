@@ -33,4 +33,10 @@ DM4DS - Sandor
 
 ![image description](3Dcasepics/V2case_all.jpg)
 
+![image description](3Dcasepics/V2case_cableside.jpg)
+
+![image description](3Dcasepics/V2case_front.jpg)
+
+![image description](3Dcasepics/V2case_top.jpg)
+
 ![](https://komarev.com/ghpvc/?username=DM4DS)
