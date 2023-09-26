@@ -31,6 +31,9 @@ Try and test with your setup.
 All the best
 DM4DS - Sandor
 
+______________________________________________________
+I do have a cold, voice is coming back slowly and my Samsung S8+ is not "fast enough" to capture the 10ms blink of the LED with its immens brightnes...
+Try do make a better video, mabye as project video on youtube, so follow on @youtube, you don´t miss it.
 
 https://github.com/DM4DS/OpenLight/assets/36482423/4f2229dc-e15b-4664-8377-f4358281effc
 
