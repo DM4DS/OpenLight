@@ -8,6 +8,7 @@ If you still have questions, feal free to ask!
 
 What to do:
 - Update the parts list
+- Schematics but it should be fine while it is commented in the INO file already
 - Update the 3D files for different usecases
 - look over everything and update
 - no idea
