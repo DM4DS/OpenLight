@@ -31,7 +31,7 @@ Try and test with your setup.
 All the best
 DM4DS - Sandor
 
-<video src='https://youtube.com/shorts/SXh56iBixCc' width=480/>
+<video src='youtube.com/shorts/SXh56iBixCc'>
  
 ![image description](3Dcasepics/V2case_all.jpg)
 
