@@ -52,6 +52,10 @@ I do have a cold, voice is coming back slowly and my Samsung S8+ is not "fast en
 Try do make a better video, mabye as project video on youtube, so follow on @youtube, you don´t miss it.
 
 
+
+https://github.com/DM4DS/OpenLight/assets/36482423/7b8483a2-6c0d-4a4b-bf42-8d83a4e4f952
+
+
 https://github.com/DM4DS/OpenLight/assets/36482423/4f2229dc-e15b-4664-8377-f4358281effc
 
  
