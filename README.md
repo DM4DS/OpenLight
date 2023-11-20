@@ -2,7 +2,10 @@
 OpenLight is an OpenSource alternative to the copyrighted UniLight.
 So feel free to mod / share / whatever you like.
 
-
+#update 20.nov.2013:
+Now OpenLight supports WS2812 programmable LEDs!
+Thanks to AdaFruit for the library.
+_________________________________________
 If you have questions, please first look into the code. Most lines are commented.
 If you still have questions, feal free to ask!
 
@@ -14,7 +17,12 @@ What to do:
 - no idea
 - something
 
-My actuall setup is:
+Done:
+- implement WS2812 programmable LED code. What a fun to play with them...
+
+
+
+One of my non-ws2812 actuall setups:
 - Arduino Micro 5V ( https://amzn.to/3rs5dHM )
 - StepUp for my 33V LEDs from 3-6S usage ( https://amzn.to/3PStbVL - 250W ) (https://amzn.to/3Rz43oo -30W )
 - MosFET Board ( https://amzn.to/3PUwV9A ) - to handle the watts and switch straight from the arduino output!
@@ -26,9 +34,17 @@ The LEDs are getting fast/really hot, if you turn them on for too long. For a "b
 Mine are only 10ms on, that is enough to light them up and immideatly cool the down during wait for the next 10ms blink!
 So I don´t need extra heatsinks under the 30W LEDs!
 
-Try and test with your setup.
+WS2812 setup:
+- Arduino Micro 5V ( https://amzn.to/3rs5dHM )
+- WS2812D IP67 LEDs ( https://amzn.to/3GaOLPT )
+- to provide the "power" for the LEDs I use a stepDown to 5V - so my RX is not perma under load. ( https://amzn.to/3syo58B )
+- as power connectors as always XT30/60
+- the WS2812 had it´s own connector, maybe you need one for yours, so keep an eye on that
 
-All the best
+Have fun testing/modifying. Maybe you are able to post a video and link it to me or in the RC-Network Thread:
+https://www.rc-network.de/threads/openlight-unilight-in-eigenbau.11972603/
+
+All the best - stay safe - stay healthy
 DM4DS - Sandor
 
 ______________________________________________________
