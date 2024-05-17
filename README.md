@@ -3,8 +3,10 @@ OpenLight is an OpenSource alternative to the copyrighted UniLight.
 So feel free to mod / share / whatever you like.
 
 #update 17.05.2024:
-Uploaded a new INO especially for WS2812 LED strips/Plates with super easy to configure large number LED strips/plates
-You no longer have to write EACH Led per line! NO, you now tell your max number and ALL LEDs are lighting /turn off
+
+Uploaded a new INO especially for WS2812 LED strips/Plates with super easy to configure large number LED strips/plates.
+You no longer have to write EACH Led per line!
+NO, now tell your max number and ALL LEDs are lighting /turn off with 1 single line of code!
 Also included a random pattern, with random coloring as example!
 Try it, it is in the file:
 OpenLight_DM4DS_v1_64er_RND_-Channel_PMW_WS2812_flash_v2.ino
