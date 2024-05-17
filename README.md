@@ -13,13 +13,13 @@ What to do:
 - Update the parts list
 - Schematics but it should be fine while it is commented in the INO file already
 - Update the 3D files for different usecases
-- look over everything and update
+- look over everything and update (partly done especially for high LED number WS2812 strips/plates)
 - no idea
 - something
 
 Done:
 - implement WS2812 programmable LED code. What a fun to play with them...
-
+- optimized for WS2812 high number strips or plates! USE the RND v2 version and you will see it in the code
 
 
 One of my non-ws2812 actuall setups:
