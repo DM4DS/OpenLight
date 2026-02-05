@@ -78,3 +78,6 @@ https://github.com/DM4DS/OpenLight/assets/36482423/4f2229dc-e15b-4664-8377-f4358
 ![image description](3Dcasepics/V2case_top.jpg)
 
 ![](https://komarev.com/ghpvc/?username=DM4DS)
+
+Please forgive me, but I am no Artist who loves to make Schematics:
+![image description](OpenLight%20Schematic.png)
