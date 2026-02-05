@@ -20,7 +20,7 @@ If you still have questions, feal free to ask!
 
 What to do:
 - Update the parts list
-- Schematics but it should be fine while it is commented in the INO file already
+- Schematics but it should be fine while it is commented in the INO file already (scroll down there is one and I am not proud)
 - Update the 3D files for different usecases
 - look over everything and update (partly done especially for high LED number WS2812 strips/plates)
 - no idea
