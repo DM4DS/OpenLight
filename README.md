@@ -2,6 +2,16 @@
 OpenLight is an OpenSource alternative to the copyrighted UniLight.
 So feel free to mod / share / whatever you like.
 
+#update 05.02.2026
+
+Uploaded a schematic - not proud of it but better than nothing.
+Pay attention, if you use a different Arduino, that your PINs must maybe adapted.
+I am almost sure that not all Arduinos Pin 9 is a PWM pin. Maybe it is, check that!
+Also with the Output bin. If you Arduino has more then 1 Output Pin with the same number, just try the other one.
+Nothing should happen if you connect it to the wrong one. Test it wih a normal LED before you flashbang a 200W LED...
+
+Hope you enjoy the project as I do and feel free to use it for whatever you wanna control on your RC Car / Plane / Boat / submarine / UFO .....
+
 #update 17.05.2024:
 
 Uploaded a new INO especially for WS2812 LED strips/Plates with super easy to configure large number LED strips/plates.
